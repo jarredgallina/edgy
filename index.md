@@ -8,6 +8,6 @@ A blurb about Edgy.
 
 ## Participate
 
-Contribute to Edgy development at http://github.com/langtech/snapapps
+Contribute to Edgy development at https://github.com/snapapps/edgy
 
 
